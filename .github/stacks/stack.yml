@@ -4,9 +4,8 @@ branding:
   icon: layers
   color: blue
 
-
 configs:
   repo-metadata:
     parameters:
       topics:
-      - main
+      - b1
